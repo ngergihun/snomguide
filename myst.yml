@@ -1,0 +1,44 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 459efbdb-c67b-4cf5-8773-33b9d34cab65
+  title: "Guide to IR nanospectroscopy"
+  description: A comprehensive guide to processing SNOM and nano-FTIR data.
+  keywords: [snom, nanoftir, data processing, spectroscopy, infrared, nanoscale, IREvolution]
+  date: 2026-09-02
+  authors: 
+    - name: Gergely Nemeth
+      orcid: 0000-0002-1590-2133
+      corresponding: true
+      email: gergely.nemeth@synchrotron-soleil.fr
+      github: ngergihun
+      affiliation:
+        - id: soleil
+          institution: Synchrotron SOLEIL
+          department: SMIS beamline
+        - id: wigner
+          institution: Wigner Research Centre for Physics
+          department: Institute for Solid State Physics and Optics
+      roles: writing
+      url: 
+  github: https://github.com/ngergihun/snom_guide
+  bibliography:
+    - references.bib
+  toc:
+    - file: index.md
+    - file: content/intro.md
+    - file: content/image_processing.md
+      children:
+        - file: content/measured-quantities-and-artifacts.md
+        - file: content/newsection.md
+        - file: content/plot_snom_images.ipynb
+    - file: content/spectrum_processing.md
+      children:
+        - file: content/process_ifg_guide.ipynb
+    - file: content/bibliography.md
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1827 946">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #d17315;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26 {
+        stroke: #000;
+      }
+
+      .st0, .st27, .st28, .st2, .st4, .st5, .st6, .st8, .st9, .st29, .st13, .st30, .st31, .st18, .st21, .st23, .st32, .st24, .st26 {
+        stroke-linejoin: round;
+      }
+
+      .st0, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st20, .st21, .st23, .st24, .st26 {
+        stroke-width: 2px;
+      }
+
+      .st1, .st27, .st28, .st2, .st33, .st7, .st10, .st29, .st34, .st30, .st31, .st19, .st22, .st32 {
+        fill: none;
+      }
+
+      .st1, .st3, .st33, .st35, .st7, .st10, .st11, .st12, .st34, .st14, .st15, .st16, .st17, .st19, .st20, .st22, .st25 {
+        stroke-miterlimit: 10;
+      }
+
+      .st27 {
+        stroke-width: 16px;
+      }
+
+      .st27, .st35, .st29, .st31, .st32 {
+        stroke: #ff5200;
+      }
+
+      .st28 {
+        stroke-width: 4px;
+      }
+
+      .st28, .st33 {
+        stroke: red;
+      }
+
+      .st2, .st34, .st30, .st19 {
+        stroke-width: 3px;
+      }
+
+      .st36 {
+        fill: #ffd19c;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st35 {
+        fill: url(#radial-gradient1);
+      }
+
+      .st4 {
+        fill: #ff871a;
+      }
+
+      .st37 {
+        fill: red;
+      }
+
+      .st5 {
+        fill: #999;
+      }
+
+      .st38, .st39 {
+        font-size: 48px;
+      }
+
+      .st38, .st39, .st40 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st6, .st12 {
+        fill: #e6e6e6;
+      }
+
+      .st8 {
+        fill: url(#radial-gradient);
+      }
+
+      .st9, .st13 {
+        fill: #ccc;
+      }
+
+      .st39 {
+        letter-spacing: 0em;
+      }
+
+      .st41 {
+        fill: #ff52ff;
+      }
+
+      .st10 {
+        stroke-width: 6px;
+      }
+
+      .st29, .st22 {
+        stroke-width: 5px;
+      }
+
+      .st11 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st13 {
+        stroke-linecap: round;
+      }
+
+      .st34 {
+        stroke: #88008a;
+      }
+
+      .st14 {
+        fill: #776d5f;
+      }
+
+      .st42 {
+        fill: #88008a;
+      }
+
+      .st15, .st24 {
+        fill: gray;
+      }
+
+      .st30 {
+        stroke: #ff52ff;
+      }
+
+      .st16 {
+        fill: #998b79;
+      }
+
+      .st31 {
+        stroke-width: 10px;
+      }
+
+      .st17 {
+        fill: url(#linear-gradient);
+      }
+
+      .st43 {
+        fill: url(#radial-gradient2);
+      }
+
+      .st18 {
+        fill: #ffbd7b;
+      }
+
+      .st44 {
+        fill: #ff5200;
+      }
+
+      .st40 {
+        font-size: 36px;
+      }
+
+      .st20, .st25 {
+        fill: #baaa91;
+      }
+
+      .st21 {
+        fill: #b3b3b3;
+      }
+
+      .st23 {
+        fill: #f2f2f2;
+      }
+
+      .st32 {
+        stroke-width: 12px;
+      }
+
+      .st26 {
+        fill: #666;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1209.1" y1="294.63" x2="1399.74" y2="295.13" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#aa9b8c"/>
+      <stop offset=".11" stop-color="#776f64"/>
+      <stop offset=".34" stop-color="#a59683"/>
+      <stop offset=".51" stop-color="#baaa91"/>
+      <stop offset=".63" stop-color="#c6b49e"/>
+      <stop offset=".76" stop-color="#d8c5b2"/>
+      <stop offset=".77" stop-color="#d6c3b0"/>
+      <stop offset=".91" stop-color="#c0b098"/>
+      <stop offset="1" stop-color="#b9a990"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="743.81" cy="406.42" fx="750.49" fy="433.91" r="247.08" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#fff"/>
+      <stop offset=".18" stop-color="#fdf0c7"/>
+      <stop offset=".29" stop-color="#fbe08b"/>
+      <stop offset=".4" stop-color="#f9d359"/>
+      <stop offset=".5" stop-color="#f8c932"/>
+      <stop offset=".6" stop-color="#f7c216"/>
+      <stop offset=".68" stop-color="#f7bd05"/>
+      <stop offset=".74" stop-color="#f7bc00"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient1" x1="1211.67" y1="342.17" x2="1340.69" y2="342.51" gradientTransform="translate(416.62 -650.48) rotate(34.66)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c9ad5"/>
+      <stop offset=".05" stop-color="#51b0dd"/>
+      <stop offset=".1" stop-color="#86c7e6"/>
+      <stop offset=".14" stop-color="#add7ec"/>
+      <stop offset=".18" stop-color="#c5e1f0"/>
+      <stop offset=".2" stop-color="#cee5f2"/>
+      <stop offset=".24" stop-color="#c0dfef"/>
+      <stop offset=".33" stop-color="#9dd0ea"/>
+      <stop offset=".44" stop-color="#64b9e1"/>
+      <stop offset=".57" stop-color="#1d9bd6"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="1265.5" y1="133.5" x2="1340.5" y2="133.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#998b79"/>
+      <stop offset="1" stop-color="#332b24"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient1" cx="487" cy="729" fx="487" fy="729" r="130.71" gradientTransform="translate(0 437.4) scale(1 .4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9239"/>
+      <stop offset=".12" stop-color="#fd923a" stop-opacity=".98"/>
+      <stop offset=".24" stop-color="#fa9440" stop-opacity=".94"/>
+      <stop offset=".36" stop-color="#f49649" stop-opacity=".86"/>
+      <stop offset=".48" stop-color="#ec9a57" stop-opacity=".75"/>
+      <stop offset=".6" stop-color="#e19e68" stop-opacity=".61"/>
+      <stop offset=".72" stop-color="#d4a47d" stop-opacity=".44"/>
+      <stop offset=".84" stop-color="#c5ab96" stop-opacity=".24"/>
+      <stop offset=".95" stop-color="#b3b2b2" stop-opacity="0"/>
+      <stop offset=".95" stop-color="#b3b3b3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient2" cx="487" cy="721.59" fx="487" fy="721.59" r="10.56" gradientTransform="translate(-331.55 -852.38) scale(1.68 2.18)" gradientUnits="userSpaceOnUse">
+      <stop offset=".28" stop-color="#ff4100"/>
+      <stop offset=".38" stop-color="#fd4202" stop-opacity=".98"/>
+      <stop offset=".47" stop-color="#fa480b" stop-opacity=".94"/>
+      <stop offset=".56" stop-color="#f45018" stop-opacity=".86"/>
+      <stop offset=".64" stop-color="#ec5d2c" stop-opacity=".75"/>
+      <stop offset=".73" stop-color="#e16d45" stop-opacity=".61"/>
+      <stop offset=".82" stop-color="#d48064" stop-opacity=".44"/>
+      <stop offset=".91" stop-color="#c59788" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#b3b2b1" stop-opacity="0"/>
+      <stop offset="1" stop-color="#b3b3b3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="LineWork">
+    <path class="st17" d="M1396.5,140.5v268.5c0,.17,0,.34-.01.5-.62,22.14-42.24,40-93.49,40s-92.87-17.86-93.49-40c-.01-.16-.01-.33-.01-.5V140.5h187Z"/>
+    <path class="st25" d="M1209.5,409c0,.17,0,.34.01.5h-.01v-.5Z"/>
+    <path class="st25" d="M1396.5,409v.5h-.01c.01-.16.01-.33.01-.5Z"/>
+    <path class="st7" d="M1210.96,282.28s5.55-13.6,25.54-14.78c18.78-1.11,46.87,11.08,59,19,22,13,41.87,36.96,41,56-1,22-9,32-23,46s-30.01,21.79-51.5,21.4-51.04-127.62-51.04-127.62Z"/>
+    <path class="st15" d="M497.5,471.5c-2-34,8-78,19-101l-37-8v104l18,5Z"/>
+    <path class="st21" d="M856.5,353.5c-76-17-221-6-340,17l-37-8,98-71,126-13,195,46-42,29Z"/>
+    <path class="st23" d="M880.5,442.5c2-45-24-89-24-89l42-29v106l-18,12Z"/>
+    <path class="st8" d="M880.5,442.5s5-38-24-89c0,0-77-29-340,17,0,0-22,51-19,101,0,0,243-53,383-29Z"/>
+    <polygon class="st9" points="968.5 575.5 962.5 580.5 962.5 714.5 969.5 709.5 968.5 575.5"/>
+    <polygon class="st5" points="812.5 537.5 803.5 543.5 962.5 580.5 969.5 575.5 812.5 537.5"/>
+    <polygon class="st26" points="805.5 677.5 962.5 714.5 962.5 580.5 803.5 543.5 805.5 677.5"/>
+    <polygon class="st4" points="993.5 425.5 999.5 434.5 1170.5 417.5 1165.5 409.5 993.5 425.5"/>
+    <polygon class="st0" points="993.5 557.5 999.5 565.5 999.5 434.5 993.5 425.5 993.5 557.5"/>
+    <polygon class="st18" points="1170.5 549.5 999.5 565.5 999.5 434.5 1170.5 417.5 1170.5 549.5"/>
+    <polygon class="st21" points="312.5 734.5 481.5 803.5 661.5 729.5 490.5 660.5 312.5 734.5"/>
+    <polygon class="st24" points="312.5 734.5 312.5 751.5 481.5 820.5 481.5 803.5 312.5 734.5"/>
+    <polygon class="st6" points="661.5 746.5 481.5 820.5 481.5 803.5 661.5 729.5 661.5 746.5"/>
+    <polygon class="st21" points="1455.5 479.5 1361.5 547.5 1624.5 608.5 1718.5 541.5 1455.5 479.5"/>
+    <polygon class="st12" points="1627.5 618.5 1727.5 547.5 1718.5 541.5 1624.5 608.5 1627.5 618.5"/>
+    <polygon class="st24" points="1357.5 555.5 1627.5 618.5 1624.5 608.5 1361.5 547.5 1357.5 555.5"/>
+    <polygon class="st24" points="1357.5 651.5 1627.5 714.5 1627.5 618.5 1357.5 555.5 1357.5 651.5"/>
+    <polygon class="st12" points="1727.5 643.5 1627.5 714.5 1627.5 618.5 1727.5 547.5 1727.5 643.5"/>
+    <ellipse class="st16" cx="1303" cy="138" rx="93.5" ry="40.5"/>
+    <ellipse class="st7" cx="1303" cy="132" rx="84.5" ry="34.5"/>
+    <ellipse class="st16" cx="1303" cy="132" rx="84.5" ry="34.5"/>
+    <ellipse class="st1" cx="1249.01" cy="343.3" rx="35.77" ry="44.52" transform="translate(26.44 771.32) rotate(-34.66)"/>
+    <ellipse class="st20" cx="1248.52" cy="342.81" rx="57.27" ry="71.3" transform="translate(26.63 770.95) rotate(-34.66)"/>
+    <ellipse class="st3" cx="1250.5" cy="342.27" rx="33.96" ry="44.52" transform="translate(27.28 771.98) rotate(-34.66)"/>
+    <path class="st7" d="M1214.47,280.41s8.03-6.91,22.03-7.91c3.99-.28,31,2,57,19s37,35,38,53-20,46-42,57c0,0,24.89-16.68,20.95-50.84-3.95-34.16-32.35-74.09-71.68-74.86-15.27-.3-24.3,4.62-24.3,4.62Z"/>
+    <path class="st11" d="M1340.5,117.5v16.5c0,.17-.01.33-.02.5-.64,8.33-17.17,15-37.48,15s-36.84-6.67-37.48-15c-.01-.17-.02-.33-.02-.5v-16.5h75Z"/>
+    <path class="st14" d="M1265.5,134c0,.17.01.33.02.5h-.02v-.5Z"/>
+    <path class="st14" d="M1340.5,134v.5h-.02c.01-.17.02-.33.02-.5Z"/>
+    <ellipse class="st16" cx="1303" cy="117" rx="37.5" ry="15.5"/>
+    <ellipse class="st35" cx="487" cy="729" rx="107.5" ry="38.5"/>
+    <ellipse class="st33" cx="487" cy="729" rx="17.5" ry="6.27"/>
+    <ellipse class="st33" cx="487" cy="729" rx="12.5" ry="4.48"/>
+    <ellipse class="st33" cx="487" cy="729" rx="8.5" ry="2.5"/>
+    <ellipse class="st43" cx="487.5" cy="722" rx="18.5" ry="24"/>
+    <path class="st29" d="M499.5,479.5c4.22,22.04,10.14,69.11-8,124-19.96,60.38-57.88,96.49-75,111"/>
+    <path class="st29" d="M826.89,484.55c-38.12,14.94-93.11,42.08-146.74,91.49-58.45,53.84-91.01,111.77-108.65,150.46"/>
+    <path class="st9" d="M62.5,404.5c38.5,38.5,87.67,80.65,131.5,113.98,48.37,36.77,93,67.52,145.1,96.32l8.39-3.3c-55.5-31.5-102.37-62.97-153.5-101.5-44.86-33.81-92-77-134.5-115.5,1,3.33,2,6.67,3,10Z"/>
+    <path class="st5" d="M347.5,611.5l-28,11,206,45-40-104-30,11c-46.5-26.5-96.95-60.05-138.5-91.5-54.45-41.22-100-80-149.5-126.5-36,12.67-72,25.33-108,38,46.5,45.5,86.57,79.12,137.5,117.5,45.07,33.96,102,73,150.5,99.5Z"/>
+    <path class="st13" d="M494.29,720.06l31.21-52.56-206-45,5,10,121,28,35.23,59.55c3.05,5.15,10.51,5.16,13.56.01Z"/>
+  </g>
+  <g id="Layer_3">
+    <polygon class="st36" points="1035 432 1087 556 1115.22 553.48 1067 429 1035 432"/>
+    <polygon class="st36" points="1073.37 428.96 1122.37 552.96 1131 552 1083 428 1073.37 428.96"/>
+  </g>
+  <g id="Laser_beams">
+    <g>
+      <line class="st27" x1="1357.5" y1="555.5" x2="1123.23" y2="500.92"/>
+      <polygon class="st44" points="1139.56 471.96 1078.5 490.5 1125.08 534.12 1139.56 471.96"/>
+    </g>
+    <g>
+      <line class="st31" x1="1084" y1="513" x2="999.48" y2="556.79"/>
+      <polygon class="st44" points="995.49 536.4 974 570 1013.84 571.82 995.49 536.4"/>
+    </g>
+    <g>
+      <line class="st31" x1="980" y1="468" x2="724.95" y2="408.52"/>
+      <polygon class="st44" points="735.17 390.42 697 402 726.11 429.27 735.17 390.42"/>
+    </g>
+    <g>
+      <line class="st32" x1="624" y1="474" x2="546.34" y2="607.24"/>
+      <polygon class="st44" points="529.19 589.14 529 637 570.55 613.24 529.19 589.14"/>
+    </g>
+    <g>
+      <line class="st28" x1="641.27" y1="529.95" x2="586" y2="626"/>
+      <polygon class="st37" points="633.19 528 647 520 647.02 535.95 633.19 528"/>
+    </g>
+    <g>
+      <line class="st28" x1="932.79" y1="488.5" x2="751" y2="448"/>
+      <polygon class="st37" points="932.25 480.21 944 491 928.78 495.78 932.25 480.21"/>
+    </g>
+    <g>
+      <line class="st28" x1="1222.57" y1="352.55" x2="1160" y2="396"/>
+      <polygon class="st37" points="1216.1 347.33 1232 346 1225.2 360.43 1216.1 347.33"/>
+    </g>
+    <g>
+      <line class="st2" x1="1029.96" y1="704.38" x2="969.04" y2="745.62"/>
+      <polygon points="1047.5 692.5 1015.95 699.14 1028.65 705.26 1029.62 719.33 1047.5 692.5"/>
+      <polygon points="951.5 757.5 969.38 730.67 970.35 744.74 983.05 750.86 951.5 757.5"/>
+    </g>
+    <g>
+      <line class="st31" x1="930" y1="554" x2="1024.5" y2="503.78"/>
+      <polygon class="st44" points="1028.71 524.13 1049.85 490.31 1009.99 488.91 1028.71 524.13"/>
+    </g>
+    <g>
+      <line class="st31" x1="1182" y1="408" x2="1252.86" y2="355.98"/>
+      <polygon class="st44" points="1259.96 375.51 1276 339 1236.36 343.36 1259.96 375.51"/>
+    </g>
+  </g>
+  <g id="Text">
+    <g>
+      <line class="st19" x1="329.92" y1="788.03" x2="399.08" y2="813.97"/>
+      <polygon points="331.67 795.21 312.5 781.5 335.96 783.78 331.67 795.21"/>
+      <polygon points="393.04 818.22 416.5 820.5 397.33 806.79 393.04 818.22"/>
+    </g>
+    <g>
+      <line class="st19" x1="563.13" y1="810.09" x2="627.45" y2="781.96"/>
+      <polygon points="569.39 814.01 546.09 817.55 564.5 802.83 569.39 814.01"/>
+      <polygon points="626.09 789.21 644.5 774.5 621.2 778.03 626.09 789.21"/>
+    </g>
+    <text class="st40" transform="translate(1180.09 67.43)"><tspan x="0" y="0">HgCdTe detector</tspan></text>
+    <text class="st40" transform="translate(1363.83 765.48)"><tspan x="0" y="0">Quantum Cascade Laser</tspan></text>
+    <text class="st40" transform="translate(534.87 244.52)"><tspan x="0" y="0">Parabolic mirror</tspan></text>
+    <text class="st40" transform="translate(1010.09 611)"><tspan x="0" y="0">Beam splitter (ZnSe)</tspan></text>
+    <text class="st40" transform="translate(76.35 319.65)"><tspan x="0" y="0">AFM tip</tspan></text>
+    <text class="st40" transform="translate(731.48 796.57)"><tspan x="0" y="0">Reference mirror</tspan></text>
+    <g>
+      <line class="st22" x1="380" y1="494.92" x2="380" y2="582.08"/>
+      <polygon points="370.74 501.95 380 498.01 389.26 501.95 380 480 370.74 501.95"/>
+      <polygon points="370.74 575.05 380 578.99 389.26 575.05 380 597 370.74 575.05"/>
+    </g>
+    <text class="st38" transform="translate(331.3 547.74)"><tspan x="0" y="0">Ω</tspan></text>
+    <g>
+      <line class="st30" x1="539.35" y1="777.18" x2="558" y2="838"/>
+      <polygon class="st41" points="535 763 532.96 785.48 539.67 778.24 549.29 780.47 535 763"/>
+    </g>
+    <text class="st40" transform="translate(533.39 872.04)"><tspan x="0" y="0">λ/2</tspan></text>
+    <g>
+      <line class="st34" x1="466.03" y1="742.19" x2="313" y2="827"/>
+      <polygon class="st42" points="479 735 456.59 737.66 465.06 742.72 464.86 752.59 479 735"/>
+    </g>
+    <text class="st40" transform="translate(230.87 860.39)"><tspan x="0" y="0">20-30 nm</tspan></text>
+    <text class="st40" transform="translate(1023.09 762.17)"><tspan x="0" y="0">M</tspan></text>
+    <text class="st38" transform="translate(1310.96 523.22)"><tspan x="0" y="0">λ</tspan></text>
+    <g>
+      <path class="st10" d="M1396.5,342.5c14.45.34,34.46-1.68,49.68-14.82,33.3-28.77,12.8-84.21,45.03-108.34,6.78-5.08,17.46-9.93,34.9-9.6"/>
+      <polygon points="1542.98 211.44 1518.31 219 1524.84 209.8 1520.08 199.57 1542.98 211.44"/>
+    </g>
+    <text class="st40" transform="translate(1560.35 200.22)"><tspan x="0" y="0">ADC + PC</tspan><tspan x="0" y="43.2">Demodulation</tspan></text>
+    <g>
+      <line class="st10" x1="1658" y1="261" x2="1658" y2="292.05"/>
+      <polygon points="1658 309 1648.24 285.12 1658 290.79 1667.75 285.12 1658 309"/>
+    </g>
+    <text class="st38" transform="translate(1610.57 356.39)"><tspan x="0" y="0">s</tspan></text>
+    <text class="st38" transform="translate(1629.57 372.38) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+    <text class="st39" transform="translate(1645.1 356.39)"><tspan x="0" y="0" xml:space="preserve"> , φ</tspan></text>
+    <text class="st38" transform="translate(1706.21 372.38) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+  </g>
+</svg>

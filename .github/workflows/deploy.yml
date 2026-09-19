@@ -31,7 +31,7 @@ jobs:
           cache: pip # Implicitly uses requirements.txt for cache key
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt jupyter-book
 
       # (optional) Cache your executed notebooks between runs
       # if you have config:
@@ -46,7 +46,7 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build .
+          jupyter-book build --html
 
       # https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
 
